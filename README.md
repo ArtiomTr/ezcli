@@ -1,0 +1,3 @@
+# ezcli
+
+Test GO package
